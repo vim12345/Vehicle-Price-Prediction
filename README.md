@@ -43,7 +43,7 @@ Place dataset.csv and predict_vehicle_price.py in the same directory.
 # Run the script using:
 
 
-python predict_vehicle_price.py
+python predict_vehicle_price.ipynb or .py
 # The script will output:
 
 RMSE and R² Score
